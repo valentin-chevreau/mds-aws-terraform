@@ -1,8 +1,8 @@
 {
   "builders": [{
     "type":       "amazon-ebs",
-    "access_key": "AKIAXOPQQ4IK5B2P4WMI",
-    "secret_key": "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",
+    "access_key": "",
+    "secret_key": "",
     "ssh_username": "{{user `aws_ssh_username`}}",
     "region":     "eu-west-1",
 
