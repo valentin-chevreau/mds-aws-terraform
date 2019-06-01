@@ -56,3 +56,12 @@ Effectuer la commande
 > terraformm apply
 
 Confirmer la modification en entrant "yes" dans "value"
+
+## Déployer l'architecture
+
+Se rendre dans le dossier suivant :
+> architecture/eu-west-1/database
+
+Effectuer la commande
+> terraformm destroy
+
