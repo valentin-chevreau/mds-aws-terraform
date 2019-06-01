@@ -57,7 +57,7 @@ Effectuer la commande
 
 Confirmer la modification en entrant "yes" dans "value"
 
-## Déployer l'architecture
+## Supprimer les données
 
 Se rendre dans le dossier suivant :
 > architecture/eu-west-1/database
