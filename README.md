@@ -41,10 +41,18 @@ Confirmer la vérification
 
 
 ## Création d’une image avec Packer
-Se rendre dans le dossier : *packer/eu-west-1/database*
+Se rendre dans le dossier :
+> packer/eu-west-1/database
+
 Exécuter cette commande
 > packer build prof-code.json
 
 ## Déployer l'architecture
 
-Se rendre dans le dossier suivant : *architecture/eu-west-1/database*
+Se rendre dans le dossier suivant :
+> architecture/eu-west-1/database
+
+Effectuer la commande
+> terraformm apply
+
+Confirmer la modification en entrant "yes" dans "value"
